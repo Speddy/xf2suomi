@@ -538,7 +538,7 @@ Ottaa BB-koodin käännöksen pois käytöstä valitussa tekstissä.]]></phrase>
   <phrase title="help_page_title.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiivisuuspalkinnot]]></phrase>
   <phrase title="history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Historia]]></phrase>
   <phrase title="hits" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Osumia]]></phrase>
-  <phrase title="home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Koti]]></phrase>
+  <phrase title="home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etusivu]]></phrase>
   <phrase title="hours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tuntia]]></phrase>
   <phrase title="i_have_saved_backup_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olen tallentanut varmuuskoodit]]></phrase>
   <phrase title="identities" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Identiteetit]]></phrase>
@@ -767,7 +767,7 @@ Ottaa BB-koodin käännöksen pois käytöstä valitussa tekstissä.]]></phrase>
   <phrase title="must_wait_x_seconds_before_performing_this_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinun täytyy odottaa ainakin {count} sekuntia ennen kuin voit suorittaa tämän toiminnon.]]></phrase>
   <phrase title="name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nimi]]></phrase>
   <phrase title="nav._default" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Oletus (ei valittua tabia)]]></phrase>
-  <phrase title="nav.contributedThreads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Viestiketjut joihin olet osallistunut]]></phrase>
+  <phrase title="nav.contributedThreads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Viestiketjut joihin olet vastannut]]></phrase>
   <phrase title="nav.currentVisitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivustolla nyt]]></phrase>
   <phrase title="nav.defaultLatestActivity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Uusimmat toiminnot]]></phrase>
   <phrase title="nav.defaultLogOut" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Kirjaudu ulos]]></phrase>
@@ -775,7 +775,7 @@ Ottaa BB-koodin käännöksen pois käytöstä valitussa tekstissä.]]></phrase>
   <phrase title="nav.defaultRegister" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Rekisteröidy]]></phrase>
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Käyttäjätilisi]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Profiilisi]]></phrase>
-  <phrase title="nav.findThreads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Hae viestiketjuista]]></phrase>
+  <phrase title="nav.findThreads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Etsi viestiketjut]]></phrase>
   <phrase title="nav.forumList" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Osiolista]]></phrase>
   <phrase title="nav.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Foorumi]]></phrase>
   <phrase title="nav.home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etusivu]]></phrase>
